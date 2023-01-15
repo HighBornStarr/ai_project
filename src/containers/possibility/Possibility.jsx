@@ -1,7 +1,6 @@
 import React from 'react'
-import './possibility.css';
-
-export const Possibility = () => {
+import './possibility.css'
+const Possibility = () => {
   return (
     <div>
     Possibility

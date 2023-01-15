@@ -1,10 +1,10 @@
 import React from 'react'
 import './feature.css';
 
-export const Feature = () => {
+const Feature = () => {
   return (
     <div>
-    Article
+Feature
     </div>
   )
 }
