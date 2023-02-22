@@ -20,7 +20,7 @@ We are blogging about it.</h1>
     <div className='gpt3__blog-container_groupB'>
     <Article imgUrl={blog02} date="Sep 26, 2021"title="Let us begin. The future is within our grasp."/>
     <Article imgUrl={blog03} date="Sep 26, 2021"title="GPT-3 and Open AI are the best tools?"/>
-    <Article imgUrl={blog04} date="Sep 26, 2021"title="Investing in tech?, walk with us"/>
+    <Article imgUrl={blog04} date="Sep 26, 2021"title="Investing in tech?Take a walk with us!"/>
     <Article imgUrl={blog05} date="Sep 26, 2021"title="How big is your imagination?"/>
     </div>
     </div>
